@@ -9,7 +9,7 @@ public class TestClass {
 		
 	}
 	public static void displayGreetings(){
-		System.out.println("File to be checked on the Github");
+		System.out.println("Bug fixed .......>>>> to be checked on the Github");
 		System.out.println("File to be checked on the Github 2nd time");
 		
 		System.out.println("This is default text....");
